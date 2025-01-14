@@ -1,6 +1,6 @@
 # DevSecOps-pipeline  
 
-# DevSecOps Pipeline 🚀🔒  
+ 
 
 This repository demonstrates the implementation of a **DevSecOps pipeline** that integrates **security practices at every stage** of the CI/CD process. It provides an end-to-end workflow for delivering secure and high-quality applications.  
 
